@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=boolean\ xor(boolean,\ boolean)
+comment0.text=\r\n\ Implements\ the\ exclusive\ OR\ function\ on\ two\ bits\ of\ data.\r\n\ \r\n\ @param\ x\ -\ first\ boolean\r\n\ @param\ y\ -\ second\ boolean\r\n\ \r\n\ return\ boolean\ value\ of\ the\ boolean\r\n
+comment1.params=x\ y
+comment1.target=java.lang.String\ xor(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Implements\ the\ exclusive\ OR\ function\ on\ two\ strings.\r\n\ \r\n\ @param\ x\ -\ first\ string\r\n\ @param\ y\ -\ second\ string\r\n\ \r\n\ @return\ out\ -\ output\ of\ two\ XOR'd\ strings.\r\n
+comment2.params=x\ y
+comment2.target=int\ xor(int,\ int)
+comment2.text=\r\n\ Implements\ the\ exclusive\ OR\ function\ on\ two\ integers.\r\n\ \r\n\ @param\ x\ -\ an\ integer\r\n\ @param\ y\ -\ an\ integer\r\n\ \r\n\ @return\ output\ -\ output\ of\ two\ XOR'd\ integers\r\n
+comment3.params=x
+comment3.target=java.lang.String\ decToBinary(int)
+comment3.text=\r\n\ Takes\ an\ integer\ in\ base\ 10\ and\ converts\ it\ to\ binary.\r\n\ \r\n\ @param\ x\ integer\ in\ base\ 10\r\n\ \r\n\ @return\ binary\ binary\ representation\ of\ the\ integer.\r\n
+comment4.params=s
+comment4.target=int\ binaryToDec(java.lang.String)
+comment4.text=\r\n\ Takes\ a\ binary\ number\ and\ converts\ it\ to\ base\ 10.\r\n\ \r\n\ @param\ s\ string\ representation\ of\ binary\ number\r\n\ \r\n\ @return\ decimal\ integer\ representation\ of\ binary\ in\ base\ 10\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method\ that\ tests\ the\ various\ XOR\ static\ functions\r\n\ @param\ args\ -\ no\ command\ line\ arguments\ needed\ \r\n
+numComments=6

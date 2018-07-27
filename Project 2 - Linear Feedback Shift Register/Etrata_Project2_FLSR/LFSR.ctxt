@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=seed\ tap
+comment0.target=LFSR(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ LFSR.\r\n\ \r\n\ @param\ seed\ the\ initial\ seed\r\n\ @param\ tap\ the\ initial\ tap\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ LFSR.\r\n\ \r\n\ @return\ seed\ the\ seed\ converted\ to\ type\ String\r\n
+comment2.params=
+comment2.target=int\ step()
+comment2.text=\r\n\ Simulates\ one\ step\ of\ the\ LFSR.\r\n\ \r\n\ @return\ bit\ XOR\ of\ the\ last\ bit\ and\ tap\ bit\ of\ the\ register\r\n
+comment3.params=k
+comment3.target=int\ generate(int)
+comment3.text=\r\n\ Simulates\ k\ steps\ of\ the\ LFSR.\r\n\ \r\n\ @param\ k\ number\ of\ steps\r\n\ @return\ r\ base\ 10\ representation\ of\ shifted\ string\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ for\ LFSR\ class.\r\n\ \r\n\ @param\ args\r\n
+numComments=5

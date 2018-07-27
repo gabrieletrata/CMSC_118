@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Node(java.lang.Object)
+comment0.text=\r\n\ Constructor\ for\ object\ of\ type\ IntegerNode.\r\n\ \r\n\ @param\ data\ data\ of\ any\ given\ type\ stored\ in\ the\ node\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getData()
+comment1.text=\r\n\ Returns\ the\ data\ being\ stored\ by\ this\ node.\r\n\ \r\n\ @return\ data\ data\ stored\ by\ the\ node\r\n
+comment2.params=
+comment2.target=Node\ getNext()
+comment2.text=\r\n\ Returns\ the\ next\ node\ that\ has\ been\ linked\ to\ this\ node.\r\n\ \r\n\ @return\ next\ the\ next\ node\ linked\ to\ the\ current\ node\r\n
+comment3.params=
+comment3.target=Node\ getPrevious()
+comment3.text=\r\n\ Returns\ the\ previous\ node\ that\ has\ been\ linked\ to\ this\ node.\r\n\ \r\n\ @return\ prev\ the\ previous\ node\ linked\ to\ the\ previous\ node\r\n
+comment4.params=in
+comment4.target=void\ setNext(Node)
+comment4.text=\r\n\ Sets\ the\ next\ node,\ so\ that\ this\ node\ is\ now\ linked\ to\ in.\r\n
+comment5.params=in
+comment5.target=void\ setPrevious(Node)
+comment5.text=\r\n\ Sets\ the\ previous\ node,\ so\ that\ this\ node\ is\ now\ linked\ to\ in.\r\n
+numComments=6

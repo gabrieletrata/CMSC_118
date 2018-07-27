@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=px\ py\ vx\ vy\ m\ file
+comment0.target=Planet(double,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Planet.\r\n\r\n\ @param\ px\ the\ x-coordinate\ position\ of\ planet.\ \r\n\ @param\ py\ the\ y-coordinate\ position\ of\ planet.\r\n\ @param\ vx\ the\ x\ component\ of\ planet's\ velocity.\ \r\n\ @param\ vy\ the\ y\ component\ of\ planet's\ velocity.\ \r\n\ @param\ m\ the\ planet's\ mass.\ \r\n\ @param\ file\ the\ Planet's\ picture\ file\ name\ e.g.\ "earth.gif",\ "venus,gif,"\ etc.\r\n
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\r\n\ Calls\ picture()\ method\ in\ StdDraw\ class\ and\ displays\ images\ of\ the\ planets.\r\n
+comment2.params=fx\ fy\ dt
+comment2.target=void\ updatePosition(double,\ double,\ double)
+comment2.text=\r\n\ Updates\ planet's\ position\ and\ velocity.\r\n\ \r\n\ @param\ fx\ the\ force\ in\ the\ x-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n\ @param\ fy\ the\ force\ in\ the\ y-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n\ @param\ dt\ change\ in\ time.\r\n
+comment3.params=other
+comment3.target=double\ calculateFX(Planet)
+comment3.text=\r\n\ Calculates\ the\ force\ in\ the\ x-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n\ \r\n\ @param\ other\ terminology\ for\ the\ planet\ being\ acted\ upon.\r\n\ \r\n\ @return\ FX\ the\ force\ in\ the\ x-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n
+comment4.params=other
+comment4.target=double\ calculateFY(Planet)
+comment4.text=\r\n\ Calculates\ the\ force\ in\ the\ y-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n\ \r\n\ @param\ other\ terminology\ for\ the\ planet\ being\ acted\ upon.\ \r\n\ \r\n\ @return\ FY\ force\ in\ the\ y-direction\ acting\ on\ a\ planet\ by\ another\ planet.\r\n
+numComments=5

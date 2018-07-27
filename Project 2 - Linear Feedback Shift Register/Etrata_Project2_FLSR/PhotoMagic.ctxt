@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ PhotoMagic\ class.\r\n\ \r\n\ @param\ args\r\n\ \r\n
+comment1.params=picture\ lfsr
+comment1.target=Picture\ transform(Picture,\ LFSR)
+comment1.text=\r\n\ Transforms\ the\ picture.\r\n\ \r\n\ @param\ picture\ the\ image\ being\ encrypted/decrypted\r\n\ @param\ lfsr\ the\ LFSR\ being\ used\ to\ encrypt/decrypt\ the\ image\r\n\ \r\n\ @return\ picture\ the\ encrypted/decrypted\ image\r\n
+numComments=2

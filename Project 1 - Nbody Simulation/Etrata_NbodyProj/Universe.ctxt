@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ Universe\ class.\ \r\n
+comment1.params=endT\ deltaT\ universeFile
+comment1.target=Universe(double,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ Universe.\r\n\ \r\n\ @param\ endT\ the\ end\ time\ of\ the\ simulation.\r\n\ @param\ deltaT\ time\ step\ of\ the\ simulation.\r\n\ @param\ universeFile\ input\ file\ name\ containing\ planetary\ information.\r\n
+comment2.params=
+comment2.target=void\ runSimulation()
+comment2.text=\r\n\ Calls\ the\ displayUniverse()\ and\ runPhysics()\ methods\ and\ runs\ the\ simulation\ for\ a\ given\ amount\ of\ time,\ endT.\r\n
+comment3.params=
+comment3.target=void\ readUniverse()
+comment3.text=\r\n\ Reads\ the\ text\ file\ containing\ information\ about\ the\ universe.\ Populates\ appropriate\ attributes,\ including\ the\ planet\ array.\r\n
+comment4.params=
+comment4.target=void\ displayUniverse()
+comment4.text=\r\n\ Displays\ a\ frame\ of\ the\ animation,\ including\ displaying\ all\ planets\ by\ calling\ the\ display()\ method\ in\ the\ Planet\ class.\r\n
+comment5.params=
+comment5.target=void\ runPhysics()
+comment5.text=\r\n\ Goes\ through\ each\ planet,\ calculates\ the\ force\ on\ it,\ and\ updates\ planetary\ positions/velocities\ by\ calling\ the\ updatePosition()\ method\ in\ the\ Planet\ class.\r\n
+numComments=6
